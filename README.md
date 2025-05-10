@@ -50,3 +50,25 @@ This section outlines the five core activities involved in the requirement analy
 - **Review and Approval**: Reviewing the documented requirements with stakeholders to ensure accuracy and completeness.  
 - **Acceptance Criteria**: Defining clear acceptance criteria for each requirement to ensure they meet the expected standards.  
 - **Traceability**: Establishing traceability matrices to ensure all requirements are addressed during development and testing.
+
+## Types of Requirements
+
+### Functional Requirements ⚙️
+These describe what the system should do.
+
+**Examples:**
+- **Search Properties:** Filter by location, price, availability.
+- **User Registration:** Register with email, name, and password.
+- **Property Listings:** Display property details and images.
+- **Booking System:** Book and manage property reservations.
+- **User Authentication:** Secure login and sign-up.
+
+### Non-functional Requirements 🛡️
+These describe how the system should perform.
+
+**Examples:**
+- **Performance:** Load pages within 2 seconds, handle 1000+ users.
+- **Security:** Secure login, encrypted user data.
+- **Scalability:** Support future growth in traffic and users.
+- **Usability:** Easy-to-use, responsive design.
+- **Reliability:** 99.9% uptime and fast recovery.
