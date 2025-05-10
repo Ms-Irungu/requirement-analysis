@@ -72,3 +72,14 @@ These describe how the system should perform.
 - **Scalability:** Support future growth in traffic and users.
 - **Usability:** Easy-to-use, responsive design.
 - **Reliability:** 99.9% uptime and fast recovery.
+
+## Use Case Diagrams
+
+Use case diagrams visually represent user interactions with the system to accomplish specific goals.
+
+**Benefits:**
+- Easy communication between developers and stakeholders.
+- Clear visualization of system functionalities.
+- Helps in identifying necessary features.
+
+![Booking System Use Case Diagram](alx-booking-uc.png)
