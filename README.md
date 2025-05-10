@@ -82,7 +82,7 @@ Use case diagrams visually represent user interactions with the system to accomp
 - Clear visualization of system functionalities.
 - Helps in identifying necessary features.
 
-![Booking System Use Case Diagram](alx-booking-uc.png)
+![Booking System Use Case Diagram](https://github.com/user-attachments/assets/7f88e2ca-4bca-413a-89af-dd86b18dd976)
 
 ## Acceptance Criteria
 
