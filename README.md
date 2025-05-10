@@ -83,3 +83,21 @@ Use case diagrams visually represent user interactions with the system to accomp
 - Helps in identifying necessary features.
 
 ![Booking System Use Case Diagram](alx-booking-uc.png)
+
+## Acceptance Criteria
+
+Acceptance Criteria are specific, measurable conditions that a system feature must meet to be accepted by stakeholders.
+
+### Importance:
+- Provides clarity on what "done" means.
+- Guides testing and validation.
+- Ensures mutual understanding between teams and stakeholders.
+
+### Example: Checkout Feature (Booking System)
+
+- Users should select available dates from a calendar.
+- Booking should be confirmed only if the selected dates are available.
+- A confirmation email should be sent within 2 minutes after booking.
+- Users should be redirected to a confirmation page showing booking ID and summary.
+
+Each of these must pass before the feature is marked complete.
